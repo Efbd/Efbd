@@ -1,57 +1,97 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg",বি-টিভি
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1746.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x94984",সি-টিভি
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1635.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x94984",চ্যানেল-আই
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1295.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngr59cKSrXstL9C_4Ub7Y5SEntMUUXfUITGWli_gw=s900-c-k-c0x00ffffff-no-rj",এস এ-টিভি
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1301.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg",বাংলা-টিভি(BDIX)
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1323.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/80/b0/78/80b078bc83d20b33f463f63eb5a02c52.jpg",আনন্দ-টিভি
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1312.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",বিজয়-টিভি(BDIX)
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1318.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-eNSpXch0hao/V-ufoyUYamI/AAAAAAAAEo0/sNkPUBcgoh85PcTAtKMnBo3ESBdVkZITACLcB/s1600/boishakhi-tv.jpg",বৈশাখী-টিভি
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1305.m3u8
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/desh-tv.png",দেশ-টিভি
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1320.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",গাজী-টিভি
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1311.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg",নাগরিক-টিভি
+#EXTINF:-1,HD/1297 RTV 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1297.m3u8
+#EXTINF:-1,HD/1298 NAGORIK TV
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1298.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",এন-টিভি
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1296.m3u8
-#EXTINF:-1 group-title="BANGLA ENT." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6lqBdcHNq3NkBsmEYwYLlF4KX6edJNZ4ug&usqp=CAU",নেক্সাস-টিভি
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2820.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj",নিউজ-২৪(BDIX)
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1342.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVabjzOoquPt1dX0e0NmgE_HJxbci6DDuG4A&usqp=CAU",যমুনা-টিভি(BDIX)
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3452.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhz1Wxul12td5n_YuKpHOWGE2SLzf632qgqXz6Y9A=s900-c-k-c0x00ffffff-no-rj",গান বাংলা-টিভি
+#EXTINF:-1,HD/1299 BANGLAVISION
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1299.m3u8
+#EXTINF:-1,HD/1300 71 TV
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1300.m3u8
+#EXTINF:-1,HD/1301 SATV
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1301.m3u8
+#EXTINF:-1,HD/1302 BTV WORLD 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1302.m3u8
+#EXTINF:-1,HD/1303 CH 24
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1303.m3u8
+#EXTINF:-1,HD/1305 BOISHAKHI
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1305.m3u8
+#EXTINF:-1,HD/1306 ASIAN
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1306.m3u8
+#EXTINF:-1,HD/1308 MY TV
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1308.m3u8
+#EXTINF:-1,HD/1309 MOHONA
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1309.m3u8
+#EXTINF:-1,HD/1311 GTV
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1311.m3u8
+#EXTINF:-1,HD/1312 ANANDO
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1312.m3u8
+#EXTINF:-1,HD/1315 EKUSHEY
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1315.m3u8
+#EXTINF:-1,HD/1316 DEEPTO TV
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1316.m3u8
+#EXTINF:-1,HD/1320 DESH TV
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1320.m3u8
+#EXTINF:-1,HD/1325 MASIK
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1325.m3u8
+#EXTINF:-1,HD/1336 ROYEL TV
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1336.m3u8
+#EXTINF:-1,HD/1338 DBC NEWS
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1338.m3u8
+#EXTINF:-1,HD/1339 GAAN BANGLA
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1339.m3u8
+#EXTINF:-1,HD/1340 BOISHAKI PLUS
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1340.m3u8
+#EXTINF:-1,HD/1341 ATN MUSIC
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1341.m3u8
+#EXTINF:-1,HD/1342 NEWS 24
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1342.m3u8
+#EXTINF:-1,HD/1346 CNN BANGLA
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1346.m3u8
+#EXTINF:-1,HD/4487 ATN BANGLA
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4487.m3u8
+#EXTINF:-1,HD/4503 CHANNEL I
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4503.m3u8
+#EXTINF:-1,HD/4505 MASSRANGA
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4505.m3u8
+#EXTINF:-1,HD/4508 NEXUS
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4508.m3u8
 
 
+#EXTINF:-1,HD/4506 GTV
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4506.m3u8
+#EXTINF:-1,HD/4539 T SPORTS HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4539.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/kW36zj9.png" group-title="BENGALI",IN: Star Jalsha
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1562.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/c76kK2K.png" group-title="BENGALI",IN: Akash Aath
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2352.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/sVK7liT.png" group-title="BENGALI",IN: ZeeBangla HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1347.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OSf9P6a.png" group-title="BENGALI",IN: Colors BanglaHD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1565.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xkoqXTs.png" group-title="BENGALI",IN: Sony Aath
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1354.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tp3Kead.png" group-title="BENGALI",IN: Enter 10 Bangla
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1355.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sVK7liT.png" group-title="BENGALI",IN: ZEE BANGLA HD 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1347.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OSf9P6a.png" group-title="BENGALI",IN: COLORS BANGLA HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1565.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kW36zj9.png" group-title="BENGALI",IN: STAR JALSHA HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1562.m3u8
+#EXTINF:-1,HD/4482 JALSHA MOVIES
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4482.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kW36zj9.png" group-title="BENGALI",IN: Star Jalsha HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4509.m3u8
+#EXTINF:-1,HD/4510 Jalsha Movies
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4510.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sVK7liT.png" group-title="BENGALI",IN: ZeeBangla HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4511.m3u8
+#EXTINF:-1,HD/4512 Zee Bangla Cinema
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4512.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OSf9P6a.png" group-title="BENGALI",IN: Colors BanglaHD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4513.m3u8
+#EXTINF:-1,HD/4514 Colors Bangla Cinema
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4514.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xkoqXTs.png" group-title="BENGALI",IN: Sony AATH
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4515.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fFsOQxz.png" group-title="BENGALI",IN: Sun Bangla
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1353.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NHZTbUT.png" group-title="BENGALI",IN: Khushboo Bangla
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1309.m3u8
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4516.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PqZmBtN.png" group-title="ENTERTAINMENT",IN: Sony HD
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1391.m3u8
@@ -66,6 +106,8 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1385.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZgBsnkO.png" group-title="ENTERTAINMENT",IN: Star BharatHD
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1566.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Z118Dtr.png" group-title="ENTERTAINMENT",IN: COLORS HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4522.m3u8
 
 #EXTINF:-1 group-title="HINDI MOVIE." tvg-logo="https://imgur.com/qp6Hy4N.png",& Pictures Hd
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1388.m3u8
@@ -81,753 +123,145 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2313.m3u8
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1556.m3u8
 #EXTINF:-1 group-title="HINDI MOVIE." tvg-logo="https://imgur.com/jlWbKAv.png",STAR GOLD SELECT
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2532.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNM6A9aaPW8LNYs4_x5Zdm2yQ1kaSs9wZFA&usqp=CAU",UTSAV GOLD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2353.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE." tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg",Zee-Bollywood
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2811.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOO-1UlDHtHjL7faZwRwnqGG0SE4qggTxIQ&usqp=CAU",MBC Bollywood
+
+#EXTINF:-1 group-title="HINDI MOVIE." tvg-logo="https://imgur.com/OGUxdPA.png",Sony Max HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4519.m3u8
+
+#EXTINF:-1 group-title="HINDI MOVIE." tvg-logo="https://imgur.com/CaJoAaB.png",COLORS CINEMAX HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4523.m3u8
+#EXTINF:-1 group-title="HINDI MOVIE." tvg-logo="https://imgur.com/yPcXAeb.png",Star Gold HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4524.m3u8
+
+#EXTINF:-1 group-title="HINDI MOVIE." tvg-logo="https://imgur.com/nCKLfiI.png",UTV Action
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4526.m3u8
+#EXTINF:-1 group-title="HINDI MOVIE." tvg-logo="https://imgur.com/qp6Hy4N.png",&picuresHD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4527.m3u8
+#EXTINF:-1,HD/4581 BOLLYWOOD
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4581.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsbNdEXhM92M0q_B5xCxyQ95cOYc0IcVHCtEaFwx7jq1bC8vUNcTfNOE3sTCX1oDDrpY&usqp=CAU",Box-Cinema
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1644.m3u8
-
-#EXTINF:-1 group-title="HINDI MUSIC." tvg-logo="https://cdn2.f-cdn.com/contestentries/1706007/42318113/5e0a108d40e0a_thumb900.jpg",Love-Music
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1382.m3u8
-#EXTINF:-1 group-title="HINDI MUSIC." tvg-logo="https://i.postimg.cc/br7ZzX3R/IMG.jpg",Zoom-Music
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4488.m3u8
-#EXTINF:-1 group-title="HINDI MUSIC." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBnfbs8fkgxeNgP1_shXZiRRcmHWKxStyqg&usqp=CAU",Shemaro-Music
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1650.m3u8
-
-#EXTINF:-1 group-title="ENGLISH MOVIE." tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png",Movies Now
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3356.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIE." tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png",CINEMAX MOVIES
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1718.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIE." tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png",GROOVY MOVIES
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1720.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIE." tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png",CINEMUNDO MOVIE
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1769.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIE." tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",XPLORE MOVIES HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4153.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIE." tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png",HBO ASIA
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1434.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU",Axn
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1806.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIE." tvg-logo="https://thumbnail.imgbin.com/22/13/24/imgbin-logo-sony-six-television-channel-sony-ten-sony-entertainment-television-kri8it-defining-digital-Acybc4HApnRxU3ck2ifyc7cAz_t.jpg",Sony Pix
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1450.m3u8
+#EXTINF:-1,HD/4525 Star Gold2
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4525.m3u8
+#EXTINF:-1,HD/4499 STAR GOLD2
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4499.m3u8
+#EXTINF:-1,HD/4500 SONYMAX2
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4500.m3u8
+#EXTINF:-1,HD/1369 B4U MOVIES 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1369.m3u8
+#EXTINF:-1,HD/1376 WOW MOVIES 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1376.m3u8
+#EXTINF:-1,HD/4580 ZEE ANMOL CINEMA
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4580.m3u8
 
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/ghBUxYm.png",Colors Bangla HD
-http://103.132.16.98:8080/colorsbanglahd/mpegts
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors Cineplex HD
-http://103.132.16.98:8080/colorscineplexhd/mpegts
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors HD
-http://103.132.16.98:8080/colorshd/mpegts
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/56bLnJP.png",Star Gold HD
-http://103.132.16.98:8080/stargoldhd/mpegts
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/cQdw1st.png",Star Jalsha HD
-http://103.132.16.98:8080/starjalshahd/mpegts
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/UGKHkDS.png",Star Plus HD
-http://103.132.16.98:8080/starplushd/mpegts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/MQ5jhMz.png",Star Sports 1 HD
-http://103.132.16.98:8080/starsports1hd/mpegts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/MD0cEBL.png",Star Sports 2 HD
-http://103.132.16.98:8080/starsports2hd/mpegts
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/xN5TNtJ.png",ZEE TV HD
-http://103.132.16.98:8080/zeetvhd/mpegts
+#EXTINF:-1,HD/1358 9XM
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1358.m3u8
+#EXTINF:-1,HD/1359 9X JALWA
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1359.m3u8
+#EXTINF:-1,HD/1368 KADAK
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1368.m3u8
+#EXTINF:-1,HD/1383 MUSIC INDIA
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1383.m3u8
+#EXTINF:-1,HD/1393 SHOW BOX
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1393.m3u8
+#EXTINF:-1,HD/4528 ZoOM
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4528.m3u8
+#EXTINF:-1,HD/4529 Bindass
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4529.m3u8
+#EXTINF:-1,HD/4538 9XM
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4538.m3u8
 
-#EXTINF:-1 group-title="Movies",and picture hd
-http://42.201.253.14:4090/play/a091/index.m3u8
-#EXTINF:-1 group-title="Movies",star gold select
-http://42.201.253.14:4090/play/a095/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Plus HD
-http://42.201.253.14:4090/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Prive Fflix",ZEE BAN CINEMA
-http://42.201.253.14:4090/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Prive Fflix",ZEE BANGLA
-http://42.201.253.14:4090/play/a032/index.m3u8
-#EXTINF:-1 group-title="Prive Fflix",ZEE TV HD
-http://42.201.253.14:4090/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Prive Fflix",zee cinema hd
-http://42.201.253.14:4090/play/a093/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES" ,Bollyone HD
-http://axcestv.vip:8080/live/freeview/axcestv/777.ts
 
-#movie
-#EXTINF:-1 group-title="fcn",HD/3456
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3456.m3u8
-#EXTINF:-1 group-title="fcn",HD/3457
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3457.m3u8
-#EXTINF:-1 group-title="fcn",HD/3458
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3458.m3u8
-#EXTINF:-1 group-title="fcn",HD/3460
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3460.m3u8
-#EXTINF:-1 group-title="fcn",HD/3461
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3461.m3u8
-#EXTINF:-1 group-title="fcn",HD/3462
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3462.m3u8
-#EXTINF:-1 group-title="fcn",HD/3463
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3463.m3u8
-#EXTINF:-1 group-title="fcn",HD/3464
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3464.m3u8
-#EXTINF:-1 group-title="fcn",HD/3465
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3465.m3u8
-#EXTINF:-1 group-title="fcn",HD/3466
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3466.m3u8
-#EXTINF:-1 group-title="fcn",HD/3469
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3469.m3u8
-#EXTINF:-1 group-title="fcn",HD/3470
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3470.m3u8
-#EXTINF:-1 group-title="fcn",HD/3471
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3471.m3u8
-#EXTINF:-1 group-title="fcn",HD/3472
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3472.m3u8
-#EXTINF:-1 group-title="fcn",HD/3473
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3473.m3u8
-#EXTINF:-1 group-title="fcn",HD/3474
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3474.m3u8
-#EXTINF:-1 group-title="fcn",HD/3475
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3475.m3u8
-#EXTINF:-1 group-title="fcn",HD/3476
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3476.m3u8
-#EXTINF:-1 group-title="fcn",HD/3477
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3477.m3u8
-#EXTINF:-1 group-title="fcn",HD/3478
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3478.m3u8
-#EXTINF:-1 group-title="fcn",HD/3479
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3479.m3u8
-#EXTINF:-1 group-title="fcn",HD/3486
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3486.m3u8
-#EXTINF:-1 group-title="fcn",HD/3487
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3487.m3u8
-#EXTINF:-1 group-title="fcn",HD/3488
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3488.m3u8
-#EXTINF:-1 group-title="fcn",HD/3489
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3489.m3u8
-#EXTINF:-1 group-title="fcn",HD/3490
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3490.m3u8
-#EXTINF:-1 group-title="fcn",HD/3491
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3491.m3u8
-#EXTINF:-1 group-title="fcn",HD/3492
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3492.m3u8
-#EXTINF:-1 group-title="fcn",HD/3493
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3493.m3u8
-#EXTINF:-1 group-title="fcn",HD/3500
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3500.m3u8
-#EXTINF:-1 group-title="fcn",HD/3501
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3501.m3u8
-#EXTINF:-1 group-title="fcn",HD/3504
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3504.m3u8
-#EXTINF:-1 group-title="fcn",HD/3505
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3505.m3u8
-#EXTINF:-1 group-title="fcn",HD/3506
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3506.m3u8
-#EXTINF:-1 group-title="fcn",HD/3515
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3515.m3u8
-#EXTINF:-1 group-title="fcn",HD/3516
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3516.m3u8
-#EXTINF:-1 group-title="fcn",HD/3517
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3517.m3u8
-#EXTINF:-1 group-title="fcn",HD/3518
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3518.m3u8
-#EXTINF:-1 group-title="fcn",HD/3519
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3519.m3u8
-#EXTINF:-1 group-title="fcn",HD/3520
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3520.m3u8
-#EXTINF:-1 group-title="fcn",HD/3521
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3521.m3u8
-#EXTINF:-1 group-title="fcn",HD/3522
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3522.m3u8
-#EXTINF:-1 group-title="fcn",HD/3523
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3523.m3u8
-#EXTINF:-1 group-title="fcn",HD/3524
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3524.m3u8
-#EXTINF:-1 group-title="fcn",HD/3525
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3525.m3u8
-#EXTINF:-1 group-title="fcn",HD/3526
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3526.m3u8
-#EXTINF:-1 group-title="fcn",HD/3527
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3527.m3u8
-#EXTINF:-1 group-title="fcn",HD/3528
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3528.m3u8
-#EXTINF:-1 group-title="fcn",HD/3529
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3529.m3u8
-#EXTINF:-1 group-title="fcn",HD/3533
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3533.m3u8
-#EXTINF:-1 group-title="fcn",HD/3534
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3534.m3u8
-#EXTINF:-1 group-title="fcn",HD/3535
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3535.m3u8
-#EXTINF:-1 group-title="fcn",HD/3540
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3540.m3u8
-#EXTINF:-1 group-title="fcn",HD/3543
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3543.m3u8
-#EXTINF:-1 group-title="fcn",HD/3553
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3553.m3u8
-#EXTINF:-1 group-title="fcn",HD/3559
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3559.m3u8
-#EXTINF:-1 group-title="fcn",HD/3561
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3561.m3u8
-#EXTINF:-1 group-title="fcn",HD/3566
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3566.m3u8
-#EXTINF:-1 group-title="fcn",HD/3567
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3567.m3u8
-#EXTINF:-1 group-title="fcn",HD/3572
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3572.m3u8
-#EXTINF:-1 group-title="fcn",HD/3573
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3573.m3u8
-#EXTINF:-1 group-title="fcn",HD/3575
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3575.m3u8
-#EXTINF:-1 group-title="fcn",HD/3576
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3576.m3u8
-#EXTINF:-1 group-title="fcn",HD/3577
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3577.m3u8
-#EXTINF:-1 group-title="fcn",HD/3578
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3578.m3u8
-#EXTINF:-1 group-title="fcn",HD/3579
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3579.m3u8
-#EXTINF:-1 group-title="fcn",HD/3581
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3581.m3u8
-#EXTINF:-1 group-title="fcn",HD/3582
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3582.m3u8
-#EXTINF:-1 group-title="fcn",HD/3585
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3585.m3u8
-#EXTINF:-1 group-title="fcn",HD/3586
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3586.m3u8
-#EXTINF:-1 group-title="fcn",HD/3587
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3587.m3u8
-#EXTINF:-1 group-title="fcn",HD/3588
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3588.m3u8
-#EXTINF:-1 group-title="fcn",HD/3590
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3590.m3u8
-#EXTINF:-1 group-title="fcn",HD/3591
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3591.m3u8
-#EXTINF:-1 group-title="fcn",HD/3592
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3592.m3u8
-#EXTINF:-1 group-title="fcn",HD/3593
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3593.m3u8
-#EXTINF:-1 group-title="fcn",HD/3595
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3595.m3u8
-#EXTINF:-1 group-title="fcn",HD/3596
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3596.m3u8
-#EXTINF:-1 group-title="fcn",HD/3598
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3598.m3u8
-#EXTINF:-1 group-title="fcn",HD/3599
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3599.m3u8
-#EXTINF:-1 group-title="fcn",HD/3600
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3600.m3u8
-#EXTINF:-1 group-title="fcn",HD/3604
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3604.m3u8
-#EXTINF:-1 group-title="fcn",HD/3605
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3605.m3u8
-#EXTINF:-1 group-title="fcn",HD/3606
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3606.m3u8
-#EXTINF:-1 group-title="fcn",HD/3618
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3618.m3u8
-#EXTINF:-1 group-title="fcn",HD/3625
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3625.m3u8
-#EXTINF:-1 group-title="fcn",HD/3640
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3640.m3u8
-#EXTINF:-1 group-title="fcn",HD/3641
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3641.m3u8
-#EXTINF:-1 group-title="fcn",HD/3646
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3646.m3u8
-#EXTINF:-1 group-title="fcn",HD/3647
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3647.m3u8
-#EXTINF:-1 group-title="fcn",HD/3651
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3651.m3u8
-#EXTINF:-1 group-title="fcn",HD/3652
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3652.m3u8
-#EXTINF:-1 group-title="fcn",HD/3653
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3653.m3u8
-#EXTINF:-1 group-title="fcn",HD/3654
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3654.m3u8
-#EXTINF:-1 group-title="fcn",HD/3655
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3655.m3u8
-#EXTINF:-1 group-title="fcn",HD/3657
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3657.m3u8
-#EXTINF:-1 group-title="fcn",HD/3659
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3659.m3u8
-#EXTINF:-1 group-title="fcn",HD/3662
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3662.m3u8
-#EXTINF:-1 group-title="fcn",HD/3663
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3663.m3u8
-#EXTINF:-1 group-title="fcn",HD/3664
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3664.m3u8
-#EXTINF:-1 group-title="fcn",HD/3670
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3670.m3u8
-#EXTINF:-1 group-title="fcn",HD/3675
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3675.m3u8
-#EXTINF:-1 group-title="fcn",HD/3676
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3676.m3u8
-#EXTINF:-1 group-title="fcn",HD/3678
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3678.m3u8
-#EXTINF:-1 group-title="fcn",HD/3680
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3680.m3u8
-#EXTINF:-1 group-title="fcn",HD/3683
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3683.m3u8
-#EXTINF:-1 group-title="fcn",HD/3687
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3687.m3u8
-#EXTINF:-1 group-title="fcn",HD/3688
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3688.m3u8
-#EXTINF:-1 group-title="fcn",HD/3690
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3690.m3u8
-#EXTINF:-1 group-title="fcn",HD/3692
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3692.m3u8
-#EXTINF:-1 group-title="fcn",HD/3693
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3693.m3u8
-#EXTINF:-1 group-title="fcn",HD/3698
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3698.m3u8
-#EXTINF:-1 group-title="fcn",HD/3700
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3700.m3u8
-#EXTINF:-1 group-title="fcn",HD/3703
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3703.m3u8
-#EXTINF:-1 group-title="fcn",HD/3705
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3705.m3u8
-#EXTINF:-1 group-title="fcn",HD/3707
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3707.m3u8
-#EXTINF:-1 group-title="fcn",HD/3708
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3708.m3u8
-#EXTINF:-1 group-title="fcn",HD/3709
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3709.m3u8
-#EXTINF:-1 group-title="fcn",HD/3713
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3713.m3u8
-#EXTINF:-1 group-title="fcn",HD/3714
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3714.m3u8
-#EXTINF:-1 group-title="fcn",HD/3715
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3715.m3u8
-#EXTINF:-1 group-title="fcn",HD/3716
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3716.m3u8
-#EXTINF:-1 group-title="fcn",HD/3717
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3717.m3u8
-#EXTINF:-1 group-title="fcn",HD/3718
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3718.m3u8
-#EXTINF:-1 group-title="fcn",HD/3719
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3719.m3u8
-#EXTINF:-1 group-title="fcn",HD/3720
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3720.m3u8
-#EXTINF:-1 group-title="fcn",HD/3721
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3721.m3u8
-#EXTINF:-1 group-title="fcn",HD/3722
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3722.m3u8
-#EXTINF:-1 group-title="fcn",HD/3723
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3723.m3u8
-#EXTINF:-1 group-title="fcn",HD/3724
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3724.m3u8
-#EXTINF:-1 group-title="fcn",HD/3725
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3725.m3u8
-#EXTINF:-1 group-title="fcn",HD/3726
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3726.m3u8
-#EXTINF:-1 group-title="fcn",HD/3727
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3727.m3u8
-#EXTINF:-1 group-title="fcn",HD/3728
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3728.m3u8
-#EXTINF:-1 group-title="fcn",HD/3729
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3729.m3u8
-#EXTINF:-1 group-title="fcn",HD/3730
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3730.m3u8
-#EXTINF:-1 group-title="fcn",HD/3731
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3731.m3u8
-#EXTINF:-1 group-title="fcn",HD/3732
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3732.m3u8
-#EXTINF:-1 group-title="fcn",HD/3733
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3733.m3u8
-#EXTINF:-1 group-title="fcn",HD/3734
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3734.m3u8
-#EXTINF:-1 group-title="fcn",HD/3735
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3735.m3u8
-#EXTINF:-1 group-title="fcn",HD/3736
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3736.m3u8
-#EXTINF:-1 group-title="fcn",HD/3737
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3737.m3u8
-#EXTINF:-1 group-title="fcn",HD/3738
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3738.m3u8
-#EXTINF:-1 group-title="fcn",HD/3739
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3739.m3u8
-#EXTINF:-1 group-title="fcn",HD/3740
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3740.m3u8
-#EXTINF:-1 group-title="fcn",HD/3741
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3741.m3u8
-#EXTINF:-1 group-title="fcn",HD/3742
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3742.m3u8
-#EXTINF:-1 group-title="fcn",HD/3743
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3743.m3u8
-#EXTINF:-1 group-title="fcn",HD/3744
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3744.m3u8
-#EXTINF:-1 group-title="fcn",HD/3745
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3745.m3u8
-#EXTINF:-1 group-title="fcn",HD/3746
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3746.m3u8
-#EXTINF:-1 group-title="fcn",HD/3747
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3747.m3u8
-#EXTINF:-1 group-title="fcn",HD/3748
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3748.m3u8
-#EXTINF:-1 group-title="fcn",HD/3750
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3750.m3u8
-#EXTINF:-1 group-title="fcn",HD/3751
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3751.m3u8
-#EXTINF:-1 group-title="fcn",HD/3752
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3752.m3u8
-#EXTINF:-1 group-title="fcn",HD/3753
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3753.m3u8
-#EXTINF:-1 group-title="fcn",HD/3754
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3754.m3u8
-#EXTINF:-1 group-title="fcn",HD/3755
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3755.m3u8
-#EXTINF:-1 group-title="fcn",HD/3756
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3756.m3u8
-#EXTINF:-1 group-title="fcn",HD/3759
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3759.m3u8
-#EXTINF:-1 group-title="fcn",HD/3760
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3760.m3u8
-#EXTINF:-1 group-title="fcn",HD/3761
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3761.m3u8
-#EXTINF:-1 group-title="fcn",HD/3762
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3762.m3u8
-#EXTINF:-1 group-title="fcn",HD/3763
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3763.m3u8
-#EXTINF:-1 group-title="fcn",HD/3765
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3765.m3u8
-#EXTINF:-1 group-title="fcn",HD/3766
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3766.m3u8
-#EXTINF:-1 group-title="fcn",HD/3767
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3767.m3u8
-#EXTINF:-1 group-title="fcn",HD/3768
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3768.m3u8
-#EXTINF:-1 group-title="fcn",HD/3769
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3769.m3u8
-#EXTINF:-1 group-title="fcn",HD/3770
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3770.m3u8
-#EXTINF:-1 group-title="fcn",HD/3771
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3771.m3u8
-#EXTINF:-1 group-title="fcn",HD/3772
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3772.m3u8
-#EXTINF:-1 group-title="fcn",HD/3773
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3773.m3u8
-#EXTINF:-1 group-title="fcn",HD/3774
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3774.m3u8
-#EXTINF:-1 group-title="fcn",HD/3775
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3775.m3u8
-#EXTINF:-1 group-title="fcn",HD/3776
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3776.m3u8
-#EXTINF:-1 group-title="fcn",HD/3777
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3777.m3u8
-#EXTINF:-1 group-title="fcn",HD/3778
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3778.m3u8
-#EXTINF:-1 group-title="fcn",HD/3781
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3781.m3u8
-#EXTINF:-1 group-title="fcn",HD/3782
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3782.m3u8
-#EXTINF:-1 group-title="fcn",HD/3783
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3783.m3u8
-#EXTINF:-1 group-title="fcn",HD/3784
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3784.m3u8
-#EXTINF:-1 group-title="fcn",HD/3785
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3785.m3u8
-#EXTINF:-1 group-title="fcn",HD/3786
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3786.m3u8
-#EXTINF:-1 group-title="fcn",HD/3787
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3787.m3u8
-#EXTINF:-1 group-title="fcn",HD/3788
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3788.m3u8
-#EXTINF:-1 group-title="fcn",HD/3789
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3789.m3u8
-#EXTINF:-1 group-title="fcn",HD/3790
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3790.m3u8
-#EXTINF:-1 group-title="fcn",HD/3791
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3791.m3u8
-#EXTINF:-1 group-title="fcn",HD/3792
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3792.m3u8
-#EXTINF:-1 group-title="fcn",HD/3793
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3793.m3u8
-#EXTINF:-1 group-title="fcn",HD/3794
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3794.m3u8
-#EXTINF:-1 group-title="fcn",HD/3795
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3795.m3u8
-#EXTINF:-1 group-title="fcn",HD/3796
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3796.m3u8
-#EXTINF:-1 group-title="fcn",HD/3798
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3798.m3u8
-#EXTINF:-1 group-title="fcn",HD/3799
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3799.m3u8
-#EXTINF:-1 group-title="fcn",HD/3800
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3800.m3u8
-#EXTINF:-1 group-title="fcn",HD/3801
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3801.m3u8
-#EXTINF:-1 group-title="fcn",HD/3802
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3802.m3u8
-#EXTINF:-1 group-title="fcn",HD/3803
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3803.m3u8
-#EXTINF:-1 group-title="fcn",HD/3804
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3804.m3u8
-#EXTINF:-1 group-title="fcn",HD/3805
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3805.m3u8
-#EXTINF:-1 group-title="fcn",HD/3806
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3806.m3u8
-#EXTINF:-1 group-title="fcn",HD/3807
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3807.m3u8
-#EXTINF:-1 group-title="fcn",HD/3808
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3808.m3u8
-#EXTINF:-1 group-title="fcn",HD/3810
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3810.m3u8
-#EXTINF:-1 group-title="fcn",HD/3811
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3811.m3u8
-#EXTINF:-1 group-title="fcn",HD/3812
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3812.m3u8
-#EXTINF:-1 group-title="fcn",HD/3813
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3813.m3u8
-#EXTINF:-1 group-title="fcn",HD/3814
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3814.m3u8
-#EXTINF:-1 group-title="fcn",HD/3815
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3815.m3u8
-#EXTINF:-1 group-title="fcn",HD/3816
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3816.m3u8
-#EXTINF:-1 group-title="fcn",HD/3817
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3817.m3u8
-#EXTINF:-1 group-title="fcn",HD/3818
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3818.m3u8
-#EXTINF:-1 group-title="fcn",HD/3819
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3819.m3u8
-#EXTINF:-1 group-title="fcn",HD/3820
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3820.m3u8
-#EXTINF:-1 group-title="fcn",HD/3821
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3821.m3u8
-#EXTINF:-1 group-title="fcn",HD/3822
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3822.m3u8
-#EXTINF:-1 group-title="fcn",HD/3823
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3823.m3u8
-#EXTINF:-1 group-title="fcn",HD/3824
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3824.m3u8
-#EXTINF:-1 group-title="fcn",HD/3825
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3825.m3u8
-#EXTINF:-1 group-title="fcn",HD/3826
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3826.m3u8
-#EXTINF:-1 group-title="fcn",HD/3827
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3827.m3u8
-#EXTINF:-1 group-title="fcn",HD/3828
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3828.m3u8
-#EXTINF:-1 group-title="fcn",HD/3829
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3829.m3u8
-#EXTINF:-1 group-title="fcn",HD/3830
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3830.m3u8
-#EXTINF:-1 group-title="fcn",HD/3831
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3831.m3u8
-#EXTINF:-1 group-title="fcn",HD/3832
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3832.m3u8
-#EXTINF:-1 group-title="fcn",HD/3833
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3833.m3u8
-#EXTINF:-1 group-title="fcn",HD/3834
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3834.m3u8
-#EXTINF:-1 group-title="fcn",HD/3836
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3836.m3u8
-#EXTINF:-1 group-title="fcn",HD/3837
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3837.m3u8
-#EXTINF:-1 group-title="fcn",HD/3838
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3838.m3u8
-#EXTINF:-1 group-title="fcn",HD/3839
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3839.m3u8
-#EXTINF:-1 group-title="fcn",HD/3840
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3840.m3u8
-#EXTINF:-1 group-title="fcn",HD/3841
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3841.m3u8
-#EXTINF:-1 group-title="fcn",HD/3842
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3842.m3u8
-#EXTINF:-1 group-title="fcn",HD/3843
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3843.m3u8
-#EXTINF:-1 group-title="fcn",HD/3844
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3844.m3u8
-#EXTINF:-1 group-title="fcn",HD/3845
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3845.m3u8
-#EXTINF:-1 group-title="fcn",HD/3847
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3847.m3u8
-#EXTINF:-1 group-title="fcn",HD/3848
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3848.m3u8
-#EXTINF:-1 group-title="fcn",HD/3849
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3849.m3u8
-#EXTINF:-1 group-title="fcn",HD/3850
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3850.m3u8
-#EXTINF:-1 group-title="fcn",HD/3851
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3851.m3u8
-#EXTINF:-1 group-title="fcn",HD/3852
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3852.m3u8
-#EXTINF:-1 group-title="fcn",HD/3853
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3853.m3u8
-#EXTINF:-1 group-title="fcn",HD/3854
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3854.m3u8
-#EXTINF:-1 group-title="fcn",HD/3855
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3855.m3u8
-#EXTINF:-1 group-title="fcn",HD/3856
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3856.m3u8
-#EXTINF:-1 group-title="fcn",HD/3857
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3857.m3u8
-#EXTINF:-1 group-title="fcn",HD/3858
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3858.m3u8
-#EXTINF:-1 group-title="fcn",HD/3859
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3859.m3u8
-#EXTINF:-1 group-title="fcn",HD/3860
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3860.m3u8
-#EXTINF:-1 group-title="fcn",HD/3861
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3861.m3u8
-#EXTINF:-1 group-title="fcn",HD/3862
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3862.m3u8
-#EXTINF:-1 group-title="fcn",HD/3863
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3863.m3u8
-#EXTINF:-1 group-title="fcn",HD/3864
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3864.m3u8
-#EXTINF:-1 group-title="fcn",HD/3865
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3865.m3u8
-#EXTINF:-1 group-title="fcn",HD/3866
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3866.m3u8
-#EXTINF:-1 group-title="fcn",HD/3867
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3867.m3u8
-#EXTINF:-1 group-title="fcn",HD/3868
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3868.m3u8
-#EXTINF:-1 group-title="fcn",HD/3869
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3869.m3u8
-#EXTINF:-1 group-title="fcn",HD/3870
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3870.m3u8
-#EXTINF:-1 group-title="fcn",HD/3871
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3871.m3u8
-#EXTINF:-1 group-title="fcn",HD/3872
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3872.m3u8
-#EXTINF:-1 group-title="fcn",HD/3873
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3873.m3u8
-#EXTINF:-1 group-title="fcn",HD/3874
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3874.m3u8
-#EXTINF:-1 group-title="fcn",HD/3875
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3875.m3u8
-#EXTINF:-1 group-title="fcn",HD/3876
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3876.m3u8
-#EXTINF:-1 group-title="fcn",HD/3877
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3877.m3u8
-#EXTINF:-1 group-title="fcn",HD/3878
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3878.m3u8
-#EXTINF:-1 group-title="fcn",HD/3879
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3879.m3u8
-#EXTINF:-1 group-title="fcn",HD/3880
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3880.m3u8
-#EXTINF:-1 group-title="fcn",HD/3881
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3881.m3u8
-#EXTINF:-1 group-title="fcn",HD/3882
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3882.m3u8
-#EXTINF:-1 group-title="fcn",HD/3883
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3883.m3u8
-#EXTINF:-1 group-title="fcn",HD/3884
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3884.m3u8
-#EXTINF:-1 group-title="fcn",HD/3885
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3885.m3u8
-#EXTINF:-1 group-title="fcn",HD/3887
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3887.m3u8
-#EXTINF:-1 group-title="fcn",HD/3888
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3888.m3u8
-#EXTINF:-1 group-title="fcn",HD/3889
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3889.m3u8
-#EXTINF:-1 group-title="fcn",HD/3890
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3890.m3u8
-#EXTINF:-1 group-title="fcn",HD/3891
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3891.m3u8
-#EXTINF:-1 group-title="fcn",HD/3892
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3892.m3u8
-#EXTINF:-1 group-title="fcn",HD/3893
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3893.m3u8
-#EXTINF:-1 group-title="fcn",HD/3894
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3894.m3u8
-#EXTINF:-1 group-title="fcn",HD/3895
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3895.m3u8
-#EXTINF:-1 group-title="fcn",HD/3896
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3896.m3u8
-#EXTINF:-1 group-title="fcn",HD/3897
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3897.m3u8
-#EXTINF:-1 group-title="fcn",HD/3898
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3898.m3u8
-#EXTINF:-1 group-title="fcn",HD/3899
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3899.m3u8
-#EXTINF:-1 group-title="fcn",HD/3900
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3900.m3u8
-#EXTINF:-1 group-title="fcn",HD/3901
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3901.m3u8
-#EXTINF:-1 group-title="fcn",HD/3902
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3902.m3u8
-#EXTINF:-1 group-title="fcn",HD/3903
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3903.m3u8
-#EXTINF:-1 group-title="fcn",HD/3904
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3904.m3u8
-#EXTINF:-1 group-title="fcn",HD/3905
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3905.m3u8
-#EXTINF:-1 group-title="fcn",HD/3906
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3906.m3u8
-#EXTINF:-1 group-title="fcn",HD/3907
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3907.m3u8
-#EXTINF:-1 group-title="fcn",HD/3908
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3908.m3u8
-#EXTINF:-1 group-title="fcn",HD/3909
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3909.m3u8
-#EXTINF:-1 group-title="fcn",HD/3910
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3910.m3u8
-#EXTINF:-1 group-title="fcn",HD/3911
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3911.m3u8
-#EXTINF:-1 group-title="fcn",HD/3912
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3912.m3u8
-#EXTINF:-1 group-title="fcn",HD/3913
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3913.m3u8
-#EXTINF:-1 group-title="fcn",HD/3914
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3914.m3u8
-#EXTINF:-1 group-title="fcn",HD/3915
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3915.m3u8
-#EXTINF:-1 group-title="fcn",HD/3916
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3916.m3u8
-#EXTINF:-1 group-title="fcn",HD/3917
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3917.m3u8
-#EXTINF:-1 group-title="fcn",HD/3918
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3918.m3u8
-#EXTINF:-1 group-title="fcn",HD/3919
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3919.m3u8
-#EXTINF:-1 group-title="fcn",HD/3920
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3920.m3u8
-#EXTINF:-1 group-title="fcn",HD/3921
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3921.m3u8
-#EXTINF:-1 group-title="fcn",HD/3922
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3922.m3u8
-#EXTINF:-1 group-title="fcn",HD/3924
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3924.m3u8
-#EXTINF:-1 group-title="fcn",HD/3925
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3925.m3u8
-#EXTINF:-1 group-title="fcn",HD/3926
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3926.m3u8
-#EXTINF:-1 group-title="fcn",HD/3927
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3927.m3u8
-#EXTINF:-1 group-title="fcn",HD/3928
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3928.m3u8
-#EXTINF:-1 group-title="fcn",HD/3930
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3930.m3u8
-#EXTINF:-1 group-title="fcn",HD/3931
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3931.m3u8
-#EXTINF:-1 group-title="fcn",HD/3932
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3932.m3u8
-#EXTINF:-1 group-title="fcn",HD/3933
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3933.m3u8
-#EXTINF:-1 group-title="fcn",HD/3934
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3934.m3u8
-#EXTINF:-1 group-title="fcn",HD/3935
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3935.m3u8
-#EXTINF:-1 group-title="fcn",HD/3936
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3936.m3u8
-#EXTINF:-1 group-title="fcn",HD/3937
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3937.m3u8
-#EXTINF:-1 group-title="fcn",HD/3938
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3938.m3u8
-#EXTINF:-1 group-title="fcn",HD/4054
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4054.m3u8
-#EXTINF:-1 group-title="fcn",HD/4055
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4055.m3u8
-#EXTINF:-1 group-title="fcn",HD/4090
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4090.m3u8
-#EXTINF:-1 group-title="fcn",HD/4091
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4091.m3u8
-#EXTINF:-1 group-title="fcn",HD/4096
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4096.m3u8
+#EXTINF:-1,HD/4485 DISCOVERY BANGLA
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4485.m3u8
+#EXTINF:-1,HD/4531 DISCOVERY HD HIN
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4531.m3u8
+#EXTINF:-1,HD/4532 NA GEO BANGLA
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4532.m3u8
+#EXTINF:-1,HD/4533 ANIMALS PLAN HIN
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4533.m3u8
+#EXTINF:-1,HD/4534 WILD HIN
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4534.m3u8
+#EXTINF:-1,HD/4535 TRAVELXP BAN
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4535.m3u8
+#EXTINF:-1,HD/4536 SCIENCE
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4536.m3u8
+#EXTINF:-1,HD/4537 TLC HIN
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4537.m3u8
+#EXTINF:-1,HD/4554 SONY BBC
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4554.m3u8
 
 
 
+#EXTINF:-1,HD/4540 SONY SIX
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4540.m3u8
+#EXTINF:-1,HD/4541 TEN1
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4541.m3u8
+#EXTINF:-1,HD/4542 TEN2
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4542.m3u8
+#EXTINF:-1,HD/4543 TEN3
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4543.m3u8
+
+#EXTINF:-1,HD/4496 STARE SPORTS 1 HIN
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4496.m3u8
+#EXTINF:-1,HD/4544 STAR SPORTS 1 HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4544.m3u8
+#EXTINF:-1,HD/4545 STAR SPORTS 2 HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4545.m3u8
+#EXTINF:-1,HD/4547  STAR SPORTS SEL 2
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4547.m3u8
+#EXTINF:-1,HD/4549 TEN SPORTS 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4549.m3u8
+#EXTINF:-1,HD/4550 PTV SPORTS 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4550.m3u8
+
+
+#EXTINF:-1,HD/4530 EN 2
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4530.m3u8
+#EXTINF:-1,HD/4551 SONY PIX
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4551.m3u8
+#EXTINF:-1,HD/4552 NOW MOVIES 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4552.m3u8
+#EXTINF:-1,HD/4553 STAR MOVIES 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4553.m3u8
+#EXTINF:-1,HD/4555 MN+
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4555.m3u8
+#EXTINF:-1,HD/4556 WORLD 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4556.m3u8
+#EXTINF:-1,HD/4557 MNX+
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4557.m3u8
+
+
+#EXTINF:-1,HD/4560 OK HIN
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4560.m3u8
+#EXTINF:-1,HD/4561 NICK HIN
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4561.m3u8
+#EXTINF:-1,HD/4562 CN HIN
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4562.m3u8
+#EXTINF:-1,HD/4563 POGO HIN
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4563.m3u8
+
+#EXTINF:-1,HD/4564 MADANI
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4564.m3u8
+#EXTINF:-1,HD/4565 MOKKA LIVE
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4565.m3u8
+
+#EXTINF:-1,HD/4566
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4566.m3u8
+#EXTINF:-1,HD/4567 S SPORTS 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4567.m3u8
+#EXTINF:-1,HD/4568
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4568.m3u8
+#EXTINF:-1,HD/4569 S SPORTS 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4569.m3u8
+#EXTINF:-1,HD/4575 BI SPORTS 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4575.m3u8
+#EXTINF:-1,HD/4576
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4576.m3u8
+#EXTINF:-1,HD/4577
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4577.m3u8
+#EXTINF:-1,HD/4578
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4578.m3u8
+#EXTINF:-1,HD/4582 ASTRO CRICKET 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4582.m3u8
 
 
 
