@@ -231,4 +231,16 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4562.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VKSpv5k.png" group-title="FCN-KIDS" ,POGO SD
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4563.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/xN5TNtJ.png" group-title="Hindi" ,ZEE TV HD 
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Hindi" ,Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi" ,Sony HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Wynpxsy.png" group-title="Hindi" ,Sony Sab HD
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi" ,Zee Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+
+
 #MODIFIED BY E-FIBERBD 
