@@ -1,42 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD BANGLA",BTV World
+#EXTINF:-1 tvg-logo="https://imgur.com/RR0Iv6V.png" group-title="BD BANGLA",BTV World
 https://cdn.appv.jagobd.com:444/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="BD BANGLA",BTV CTG
+#EXTINF:-1 tvg-logo="https://imgur.com/sTZelfs.png" group-title="BD BANGLA",BTV CTG
 https://cdn.appv.jagobd.com:444/live-orgin/btvnational-ctg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="BD BANGLA",SANGSAD TV
+#EXTINF:-1 tvg-logo="https://imgur.com/sTZelfs.png" group-title="BD BANGLA",SANGSAD TV
 https://cdn.appv.jagobd.com:444/live-orgin/songsodtv-world.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="BD BANGLA",ANANDO TV
+#EXTINF:-1 tvg-logo="https://imgur.com/h5FhOWT.png" group-title="BD BANGLA",ANANDO TV
 https://cdn.appv.jagobd.com:444/live-orgin/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BD BANGLA",ATN BANGLA
+#EXTINF:-1 tvg-logo="https://imgur.com/5PsRkPd.png" group-title="BD BANGLA",ATN BANGLA
 https://cdn.appv.jagobd.com:444/live-orgin/atnbd-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESWXan9.png" group-title="BD BANGLA",ATN ISLAMIC
+#EXTINF:-1 tvg-logo="https://imgur.com/ESWXan9.png" group-title="BD BANGLA",ATN ISLAMIC
 https://cdn.appv.jagobd.com:444/live-orgin/atnislamictv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="BD BANGLA",BANGLA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/K43LsMQ.png" group-title="BD BANGLA",BANGLA TV
 https://cdn.appv.jagobd.com:444/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="BD BANGLA",BIJOY TV
+#EXTINF:-1 tvg-logo="https://imgur.com/kDmkexe.png" group-title="BD BANGLA",BIJOY TV
 https://cdn.appv.jagobd.com:444/live-orgin/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="BD BANGLA",BANGLAVISION
+#EXTINF:-1 tvg-logo="https://imgur.com/HX8SSDA.png" group-title="BD BANGLA",BANGLAVISION
 https://cdn.appv.jagobd.com:444/live-orgin/banglav000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="BD BANGLA",BOISHAKHI TV
+#EXTINF:-1 tvg-logo="https://imgur.com/pTJSGtj.png" group-title="BD BANGLA",BOISHAKHI TV
 https://cdn.appv.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BD BANGLA",BOISHAKHI PLUS
+#EXTINF:-1 tvg-logo="https://imgur.com/KXsOj3L.png" group-title="BD BANGLA",BOISHAKHI PLUS
 https://cdn.appv.jagobd.com:444/live-orgin/boishakhiplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BD BANGLA",CHANNEL I
+#EXTINF:-1 tvg-logo="https://imgur.com/nYRFnW5.png" group-title="BD BANGLA",CHANNEL I
 https://cdn.appv.jagobd.com:444/live-orgin/channeli-8-org.stream/lplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.png" group-title="BD BANGLA",DEEPTO TV
+#EXTINF:-1 tvg-logo="https://imgur.com/giqoc2X.png" group-title="BD BANGLA",DEEPTO TV
 https://cdn.appv.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="BD BANGLA",RTV HD
+#EXTINF:-1 tvg-logo="https://imgur.com/yi5p51T.png" group-title="BD BANGLA",RTV HD
 https://cdn.appv.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.png" group-title="BD BANGLA",MY TV
+#EXTINF:-1 tvg-logo="https://imgur.com/TWuzjbg.png" group-title="BD BANGLA",MY TV
 https://cdn.appv.jagobd.com:444/live-orgin/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l76jXPz.png" group-title="BD BANGLA",NEXUS TV
+#EXTINF:-1 tvg-logo="https://imgur.com/l76jXPz.png" group-title="BD BANGLA",NEXUS TV
 https://cdn.appv.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="BD BANGLA",CHANNEL 9 HD
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fj8nxOw.png" group-title="BD BANGLA",CHANNEL 9 HD
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2316.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BD BANGLA",MOVIE BANGLA
 https://cdn.appv.jagobd.com:444/live-orgin/moviebanglalink2.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58J4A1.jpg" group-title="BD BANGLA",BANGLA 21 TV
 https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JDVi.jpg" group-title="BD BANGLA",CUMILLA 24 TV
@@ -65,6 +68,7 @@ https://bd.jagobd.com:444/live-orgin/globaltv.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58MA3k.png" group-title="BD BANGLA",CHANNEL S HD
 https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58Yw1b.jpg" group-title="BD BANGLA",CAN BANGLA
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/canbanglatv.stream/chunks.m3u8
@@ -96,14 +100,13 @@ https://live.tvdhaka.com:30443/live/telefilm/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9ArrdIr.png" group-title="BD BANGLA",MAGIC BANGLA TV
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OTzS5Fc.png" group-title="BD BANGLA",ATN MUSIC
+#EXTINF:-1 tvg-logo="https://imgur.com/OTzS5Fc.png" group-title="BD BANGLA",ATN MUSIC
 https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="BD BANGLA",GAAN BANGLA
+#EXTINF:-1 tvg-logo="https://imgur.com/oMXI9Dv.png" group-title="BD BANGLA",GAAN BANGLA
 https://cdn.appv.jagobd.com:444/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="BD BANGLA",RTV MUSIC
-https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="BD BANGLA",SANGEET BANGLA
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TNk56Ai.png" group-title="BD BANGLA",SANGEET BANGLA
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HG69Dgb.png" group-title="BD BANGLA",BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
@@ -177,10 +180,11 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4525.m3u8
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4526.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" group-title="Hindi Movie" ,&Pictures HD
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4527.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi Movie" ,Abc BollyWood
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi Movie" ,mbc BollyWood
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4581.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5B3TDVX.png" group-title="Hindi Movie" ,SETMAX2
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4500.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QOye6lA.png" group-title="Documentary" ,Discovery HD
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4531.m3u8
@@ -221,6 +225,10 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4552.m3u8
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4553.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iA4v1yN.png" group-title="English" ,MN+ HD
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4555.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/K8YUMMt.png" group-title="English", Star World HD [HD]
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4556.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/msSkZ5F.png" group-title="English", MNX HD [HD]
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4557.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/542VNXV.png" group-title="FCN-KIDS" ,Nick
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4561.m3u8
