@@ -118,7 +118,7 @@ http://103.167.190.250/hls/colore-bangla-cinema.m3u8
 http://103.167.190.250/hls/zee-bangla-cinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xN5TNtJ.png" group-title="Hindi" ,ZEE TV HD 
-http://103.167.190.250/hls/zeetv.m3u8
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Hindi" ,Star Plus HD
 http://103.167.190.250/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi" ,Sony HD
@@ -131,9 +131,9 @@ http://103.136.200.246:8082/Sony_Sab/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" group-title="HINDI MOVIES" ,&Pictures HD
 http://103.167.190.250/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="HINDI MOVIES" ,Zee Cinema HD
-http://103.167.190.250/hls/zeecinemahd.m3u8
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="HINDI MOVIES",Sony Max HD
-http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
+https://stream.rangdhanu.live/SonyMaxHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="HINDI MOVIES" ,Star Gold HD
 http://103.167.190.250/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G0fh0PU.png" group-title="HINDI MOVIES" ,Star Gold2
